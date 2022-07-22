@@ -1,0 +1,6 @@
+f = open("file.txt")
+# print(f.readline())
+# f.tell()
+# f.seek(10)
+# f.seek(0)
+f.close()
