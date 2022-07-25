@@ -26,10 +26,10 @@ if __name__ == "__main__":
 
         if user == 1:
             r = requests.get(
-                "https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=7ebb851e81ca4fe99c5c795fc6ddd635")
+                "https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=API_KEY(Add your key here)")
         elif user == 2:
             r = requests.get(
-                "https://newsapi.org/v2/everything?sources=ary-news&apiKey=7ebb851e81ca4fe99c5c795fc6ddd635")
+                "https://newsapi.org/v2/everything?sources=ary-news&apiKey=API_KEY(Add your key here)")
         elif user == 3:
             break
         else:
