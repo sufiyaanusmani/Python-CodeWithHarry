@@ -1,0 +1,17 @@
+import os
+
+# print(os.getcwd())
+# # os.chdir("C://")
+# print(os.getcwd())
+# print(os.listdir())
+# print(os.mkdir("this"))
+# print(os.rmdir("this"))
+# os.rename("this", "that")
+# print(os.environ.get("Path"))
+# print(os.path.join("C://", "Harry.txt"))
+# print(os.path.exists("11_sets.py"))
+# print(os.path.exists("11_se.p"))
+# print(os.path.isfile("that"))
+# print(os.path.isfile("01_first.py"))
+# print(os.path.isdir("that"))
+# print(os.path.isdir("01_first.py"))
