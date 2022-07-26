@@ -1,0 +1,2 @@
+pyinstaller --onefile 67_py_to_exe.py
+pyinstaller 67_py_to_exe.py
